@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.weatherDisplay {
+  list-style: none;
+  padding-left: 0;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 25px;
+}
