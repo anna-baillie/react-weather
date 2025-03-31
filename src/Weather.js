@@ -53,7 +53,7 @@ export default function Weather() {
             <b>Wind:</b> {weather.wind}km/h
           </li>
           <li>
-            <img src={weather.icon} alt="An image of the weather" />
+            <img src={weather.icon} alt="The sun" />
           </li>
         </ul>
       </div>
